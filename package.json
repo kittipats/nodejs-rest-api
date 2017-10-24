@@ -1,0 +1,22 @@
+{
+  "name": "sample-api",
+  "version": "1.0.0",
+  "description": "REST API for js node",
+  "main": "index.js",
+  "dependencies": {
+    "express": "~4.11.2",
+    "babel-cli": "~6.16.0",
+    "babel-core": "~6.17.0",
+    "babel-loader": "~6.2.5",
+    "babel-preset-env": "latest",
+    "babel-register": "~6.16.3"
+  },
+  "devDependencies": {
+
+  },
+  "scripts": {
+      "test": "echo \"ERROR: no test specified\" && exit 1"
+  },
+  "author": "Kittipat Sandee",
+  "license": "MIT"
+}
