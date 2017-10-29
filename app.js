@@ -1,4 +1,4 @@
-import express from 'express';
+var express = require('express');
 
 var app = express();
 var port = process.env.PORT || 3031;
@@ -9,4 +9,4 @@ app.get('/', function(req, res) {
 
 app.listen(port, function() {
   console.log("Running on port " + port);
-})
+});

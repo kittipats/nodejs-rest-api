@@ -9,7 +9,9 @@
     "babel-core": "~6.17.0",
     "babel-loader": "~6.2.5",
     "babel-preset-env": "latest",
-    "babel-register": "~6.16.3"
+    "babel-register": "~6.16.3",
+    "gulp": "latest",
+    "gulp-nodemon": "latest"
   },
   "devDependencies": {
 
